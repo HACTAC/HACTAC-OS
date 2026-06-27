@@ -1,0 +1,13 @@
+# Local-only confidential knowledge
+clients/
+projects/
+relationship/
+templates/CLIENT_PROFILE.md
+
+# Local notes and exports
+private-local/
+local-private/
+*.local.md
+
+# macOS
+.DS_Store
